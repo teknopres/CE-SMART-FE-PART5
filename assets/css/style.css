@@ -43,6 +43,24 @@ body {
   vertical-align: middle;
 }
 
+/* styling profil box & image */
+.profil {
+  background-color: white;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: -7px 5px rgba(0, 0, 0, 0.247);
+}
+
+.profil-text {
+  padding: 40px 0px 40px 40px;
+}
+
+.profil-image {
+  height: 520px;
+}
+/*  */
+
 
 /* main section */
 
